@@ -35,4 +35,9 @@ I recode with vuejs2. Just for references.
 This my frist githup. May be some mistake have take place.
 
 Feel free to leave a line.
+<<<<<<< HEAD
+
+sdsd
+=======
 >>>>>>> eff1c75b495a2a41fb418387263e93b1c856c687
+>>>>>>> master
